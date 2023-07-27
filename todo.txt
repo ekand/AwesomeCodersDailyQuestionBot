@@ -1,0 +1,6 @@
+# Todo
+- refactor: hold questions in text file for simplicity
+- add LICENSE.md
+- add CONTRIBUTING.md
+- update README.md
+- add deployment instructions
